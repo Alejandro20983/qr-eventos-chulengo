@@ -11,6 +11,6 @@ qr.add_data(url)
 qr.make(fit=True)
 
 img = qr.make_image(fill_color="black", back_color="white")
-img.save("qr_prueba.png")
+img.save("Flyer_Chulengo.jpg")
 
-print("QR code generated and saved as qr_prueba.png")
+print("QR code generated and saved as Flyer_Chulengo.jpg")
