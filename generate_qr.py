@@ -1,6 +1,6 @@
 import qrcode
 
-url = "lively-zuccutto-4e6bf7.netlify.app/prueba.pdf"
+url = "lively-zuccutto-4e6bf7.netlify.app/Flyer_Chulengo2.jpg"
 
 qr = qrcode.QRCode(
     version = 1,
